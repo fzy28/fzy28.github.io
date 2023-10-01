@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ray Tracing with bouncing balls"
+excerpt: "A little shadertoy, with dynamics to show the beauty of rendering.<br/><img src='/images/ball.png' width='500px'> "
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+See the my little scene on [https://www.shadertoy.com/view/7l2Szm](https://www.shadertoy.com/view/7l2Szm).
+

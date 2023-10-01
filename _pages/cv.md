@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science & Technology, Zhejiang  University, 2022
+* M.S. in Computer Science & Engineering, University of California San Diego, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun-Oct 2021: Game Client Developer for the Open-World Game - Arena Of Valor: World based on UE4
+  * Timi Studio of Tencent Technology (Shanghai) Co., Ltd.
+  * Worked on a side task editor with a visual programming interface for Game Planner to implement the desired task logic.
+  * Participated in the design of C++ and Lua classes for side tasks; wrote GUI modules with colleagues.
+  * Fixed bugs in the value transfer between C and Lua, as well as bugs in the game rendering level, e.g. the twitch of dynamic grass due to the wrong calculation of axis position.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2021 - Apr 2022: Graphics Algorithm Engineer
+  * Raysengine
+  * Integrated forward+ technology to the rendering engine on the mobile phone.
+  * Implemented a cloth rendering system using the raysengine
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * C++
+  * Python, Pytorch
+  * Linux tools
+  * Docker
+* Communication
+  * Chinese(native)
+  * English(TOEFL 110)
 
 Publications
 ======
@@ -42,18 +44,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
