@@ -16,17 +16,9 @@ During my undergraduate years, I was a passionate enthusiast of rendering and my
 
 At UCSD, I continue deepening my knowledge in rendering. I have been working on a rendering project with [Prof. Tzumao-Li](https://cseweb.ucsd.edu/~tzli/) up to now. Beyond rendering, I have a strong interest in inverse rendering and 3D reconstruction. I interned at [SU Lab](https://cseweb.ucsd.edu/~haosu/) for a period of time. 
 
-## Out of Research
+Naturally, I am a passionate gamer. I even believe that my greatest talent might lie in playing games. 
 
-I'm an enthusiast for mathematics. I enjoy watching educational math videos on YouTube and Bilibili. I'm deeply moved by the beauty of mathematics.
-
-I love rock & roll. I play the saxophone and have once performed Cui Jian's "Rock 'n' Roll on the New Long March"(崔健的歌，新长征路上的摇滚).
-
-I really like Japanese anime and manga. My favorite are Cowboy Bebop and K-On!.
-
-Naturally, I am a passionate gamer. I even believe that my greatest talent might lie in playing games. When I was 15, I played League of Legends so well that I was invited for a trial for a junior training team to become a professional game player, though I refused for high school.
-
-Besides, I like cooking.
+Besides, I like cooking. I love rock & roll. I play the saxophone. And I really like Japanese anime and manga. My favorite are Cowboy Bebop and K-On!.
 
 ## About Future
 
