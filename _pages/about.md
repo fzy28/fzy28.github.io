@@ -20,10 +20,4 @@ Naturally, I am a passionate gamer. I even believe that my greatest talent might
 
 Besides, I like cooking. I love rock & roll. I play the saxophone. And I really like Japanese anime and manga. My favorite are Cowboy Bebop and K-On!.
 
-## About Future
 
-My thoughts have greatly changed over the two years from my senior year to now. 
-
-I haven't really figured out what my true research interest for the future will be. I hope I can make it clear by the time I write my MS thesis. 
-
-So I plan to take a gap year and if you are interested in me as a RA or interns, please contact me. 
