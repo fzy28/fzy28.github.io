@@ -1,6 +1,6 @@
 ---
 title: "My single scatter NeRF"
-excerpt: " Attempted to implement Single Scatter NeRF. I explored various network structures and representations of phase functions.<br/><img src='/images/CSE_272.jpg'>"
+excerpt: " Attempted to implement Single Scatter NeRF. I explored various network structures and representations of phase functions.<br/><img src='/images/CSE_272.jpg' width='400'>"
 collection: projects
 ---
 
