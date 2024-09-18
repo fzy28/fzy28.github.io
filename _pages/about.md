@@ -8,16 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master student of Computer Science and Engineering at UC San Diego. My research interests are in Computer Graphics. I received B.Eng. degree from College of Computer Science & Technology, Zhejiang University and Honours Degree from Chu Kochen Honors College in 2022, advised by [Prof. Rui Wang](https://scholar.google.com/citations?user=yUxnN_EAAAAJ&hl=en). 
 
-I worked with [Prof. Rui Wang](https://scholar.google.com/citations?user=yUxnN_EAAAAJ&hl=en) on cloth rendering and rendering engine in the State Key Lab of CAD&CG, Zhejiang University and interned at [RaysEngine](https://www.raysengine.com/), the laboratory's collaborative company.
+I am a research intern @[SU Lab](https://cseweb.ucsd.edu/~haosu/), UC San Diego. I just received my master degree in Computer Science from UC San Diego, advised by [Prof. Tzumao-Li](https://cseweb.ucsd.edu/~tzli/). 
 
-During my undergraduate years, I was a passionate enthusiast of rendering and my future dream was to create my own game. I interned on the [Arena of Valor: World(王者荣耀：世界)](https://world.qq.com/) project  at [Timi Studio](https://www.timistudios.com/), Tencent. It was a wonderful time that had a great impact on me(It changed me a lot).
+My research interests lie in rendering, reconstruction and generative models(e.g. normalizing flows and diffusion model). I am looking for a Ph.D. position Fall 2025.
 
-At UCSD, I continue deepening my knowledge in rendering. I have been working on a rendering project with [Prof. Tzumao-Li](https://cseweb.ucsd.edu/~tzli/) up to now. Beyond rendering, I have a strong interest in inverse rendering and 3D reconstruction. I interned at [SU Lab](https://cseweb.ucsd.edu/~haosu/) for a period of time. 
+I received B.Eng. degree from College of Computer Science & Technology, Zhejiang University and Honours Degree from Chu Kochen Honors College in 2022, advised by [Prof. Rui Wang](https://scholar.google.com/citations?user=yUxnN_EAAAAJ&hl=en). 
 
-Naturally, I am a passionate gamer. I even believe that my greatest talent might lie in playing games. 
+During my undergraduate years, I was a passionate enthusiast of gamer and interned on the [Honor of Kings: World(王者荣耀：世界)](https://world.qq.com/) project  at [Timi Studio](https://www.timistudios.com/).
 
-Besides, I like cooking. I love rock & roll. I play the saxophone. And I really like Japanese anime and manga. My favorite are Cowboy Bebop and K-On!.
+
+# Old day's dream
+
+
+At the age of 16, I set a life goal for myself: to become a game producer and create my own games that would have a global impact. 
+
+While I won't say this dream has been dead or lost, in recent years I did since find another more compelling and intriguing goal, and I've decided to dedicate my best years to this area instead of game development. 
+
+I think I definitely will revisit my gaming aspirations someday in the future. But that's often how life goes - we find ourselves interested in many things, yet we can only choose one as our primary focus.
+
+
+Besides, I like cooking and I really like Japanese anime and manga.
 
 

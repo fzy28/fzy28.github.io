@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Computer Science & Technology, Zhejiang  University, 2022
-* M.S. in Computer Science & Engineering, University of California San Diego, 2024 (expected)
+* M.S. in Computer Science & Engineering, University of California San Diego, 2024
 
 Work experience
 ======

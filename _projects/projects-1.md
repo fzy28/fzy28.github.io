@@ -3,9 +3,7 @@ title: " Disney Principled BSDF"
 excerpt: "Implement Disney Principled BSDF in a Monte Carlo path tracer. <br/><img src='/images/disney_bsdf.png' width='500px'>"
 collection: projects
 ---
-.centered-text {
-    text-align: center;
-}
+
 Implemented in [lajolla](https://github.com/BachiLi/lajolla_public), UCSD CSE 272 renderer.
 
 Classic connell box

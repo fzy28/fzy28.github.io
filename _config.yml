@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ziyang Fu / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : 
 description              : &description "personal description"
 url                      : https://fzy28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
